@@ -6,7 +6,8 @@ var app = new Vue(
     {
         el: '#root',
         data: {
-            messaggio: 'Hello Vue!'
+            messaggio: 'Hello Vue!',
+            immagine: 'https://img.devrant.com/devrant/rant/r_1413973_eX38n.jpg'
         },
         methods: {
 
